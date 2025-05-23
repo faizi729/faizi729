@@ -88,7 +88,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/faizi729/faizi729/output/snake.svg" alt="Snake animation" />
+ 
 
 ###
 
